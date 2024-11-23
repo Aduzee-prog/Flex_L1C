@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red{
+    background-color: rgb(252, 248, 248);
+    /*padding: 20px;*/
+    width: 20%;
+}
+.red div{
+    padding: 20px;
+}
+.blue div{
+    padding: 20px;
+}
+.green div{
+    padding: 20px;
+}
+.pink div{
+    padding: 20px;
+}
+.button{
+       display: flex;
+       justify-content: center;
+}
+.button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    width: 30%;
+    border: none;
+    border-radius: 20px;
+    margin: 20px 10px;
+}
+
+
+.blue{
+    background-color:  rgb(252, 248, 248);
+    /*padding: 20px;*/
+    width: 20%;
+}
+.green{
+    background-color:  rgb(252, 248, 248);
+    /*padding: 20px;*/
+    width: 20%;
+}
+.pink{
+    background-color:  rgb(252, 248, 248);
+    /*padding: 20px;*/
+    width: 20%;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    height: 100vh;
+   
+}
+
+
